@@ -25,7 +25,7 @@ SECRET_KEY = 'uyt-yg=hmhrqn*5)oa6r&q3adl1mp&-6&@#gxsp@63$bj&b+_6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["http://importantbits.pythonanywhere.com"]
 
 
 # Application definition
